@@ -1,2 +1,0 @@
-# Yandex
-example of code
